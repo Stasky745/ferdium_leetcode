@@ -1,0 +1,12 @@
+{
+	"id": "leetcode",
+	"name": "LeetCode",
+	"version": "1.0.0",
+	"description": "LeetCode",
+	"main": "index.js",
+	"author": "Stasky",
+	"license": "MIT",
+	"config": {
+		"serviceURL": "https://leetcode.com"
+	}
+}
